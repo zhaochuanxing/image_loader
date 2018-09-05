@@ -1,7 +1,9 @@
-package com.xing.imgloader.img;
+package com.xing.imgloader.cache;
 
 import android.graphics.Bitmap;
 import android.util.LruCache;
+
+import com.xing.imgloader.cache.ImageCache;
 
 /**
  * Author: chuanxing

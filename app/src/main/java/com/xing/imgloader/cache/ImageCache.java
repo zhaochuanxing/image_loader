@@ -1,4 +1,4 @@
-package com.xing.imgloader.img;
+package com.xing.imgloader.cache;
 
 import android.graphics.Bitmap;
 
